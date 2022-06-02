@@ -1,4 +1,4 @@
-A C++ project which can create and search for client id and book hotel room, restaurant & convention hall and also calculates the cost. 
+Hotel Managment System is a C++ project which can book hotel room, order food from room service and also calculates the cost. 
 Here Object Oriented Programming has been used along with the examples of file management and so on. 
 Hotel and Restaurant Management System is based on the concept of recording the hotel’s details and their bookings. 
 This Hotel and restaurant Management system project is designed in ‘C++’ language. 
